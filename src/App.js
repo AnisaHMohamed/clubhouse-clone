@@ -1,13 +1,15 @@
 import './App.css';
 import PlanLayout from './pages/Layouts/PlanLayout';
 import Welcome from './pages/Welcome';
-
+import { BrowserRouter } from "react-router-dom";
 function App() {
   return (
-    <PlanLayout>
-    <Welcome/>
+    <BrowserRouter>
+      <PlanLayout>
+        <Welcome />
+      </PlanLayout>
+    </BrowserRouter>
 
-    </PlanLayout>
   );
 }
 

@@ -1,6 +1,6 @@
 :root {
-    textColor: rgb(65,64,66);
-    btnBgColor: #3287b7;
+   --textColor: rgb(65,64,66);
+   --btnBgColor:#3287b7 ;
 }
 html {
     scroll-behavior: smooth;
