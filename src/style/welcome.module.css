@@ -33,7 +33,7 @@ background-color: #f2f0e4;
     justify-content: center;
 }
 .actionBtn > a:last-child {
-    color: var(--btnBgColor);
+color: var(--btnBgColor);
 font-size: 0.875em;
 font-weight: 400;
 font-style: normal;

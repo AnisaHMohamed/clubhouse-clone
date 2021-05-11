@@ -19,7 +19,7 @@ export default function PhoneConfirmation() {
                 <span>Terms of Service and Privacy Policy. </span>
         Thanks!
         </p>
-            <Link exact to="/code-confirm"
+            <Link exact to="/code_confirm"
 
                 className="primaryBtn d-flex align-items-center">
                 Next        <img src="/images/nextArrowIcon.svg" className='ml-1' alt="" />
